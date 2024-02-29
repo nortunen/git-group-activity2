@@ -10,8 +10,7 @@ requiring manual intervention to adjust the differing alterations and ensure the
 functional and coherent.
 
 No Merge Conflict Scenario: In a collaborative project, two executive members are working on their 
-company website. One member focuses on improving the home page on the "develop" branch, while the other
-enhances the registration page on the "conflict_branch". Each member works on different sections of 
-the website, ensuring there's no overlap in their assigned files. Since the alterations do not overlap 
+company website. Upon completing their respective tasks, they aim to synchronize the 'develop' branch
+with the 'main' branch to view each other's contributions. Since the alterations do not overlap 
 or affect the same lines of code, merging the branches proceeds without encountering conflicts, 
 ensuring seamless integration of the changes.
