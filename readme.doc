@@ -15,3 +15,4 @@ enhances the registration page on the "conflict_branch". Each member works on di
 the website, ensuring there's no overlap in their assigned files. Since the alterations do not overlap 
 or affect the same lines of code, merging the branches proceeds without encountering conflicts, 
 ensuring seamless integration of the changes.
+
